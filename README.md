@@ -8,7 +8,7 @@ A note can have:
    1. Text
    2. Images
    3. Voice notes
-   4. Hyperlinks to other notes or web
+   4. Hyperlinks to other notes or web links
 
 ## Goals
 - [ ] Should support dev / prod modes.
@@ -22,5 +22,5 @@ A note can have:
   - [ ] Integration tests
 - [ ] CI/CD
 - [ ] The app will not use a backend and will rely solely on local storage such as sqlite.
-- [ ] Deeplinks to specific notes on a custom scheme (not via http).
+- [ ] Deep links to specific notes on a custom scheme (not via http).
 - [ ] Supports push notifications (local reminder and FCM).
